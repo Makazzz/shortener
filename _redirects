@@ -1,8 +1,8 @@
 /source       https://github.com/kentcdodds/netlify-shortener
 /gh           https://github.com/Makazzz
 /pa           https://portableapps.com/user/332465
-/vscodium     https://github.com/VSCodium/vscodium/releases/download/1.44.2/VSCodium-win32-ia32-1.44.2.zip
-/vscodium64   https://github.com/VSCodium/vscodium/releases/download/1.44.2/VSCodium-win32-x64-1.44.2.zip
+/vscodium     https://github.com/VSCodium/vscodium/releases/download/1.45.1/VSCodium-win32-ia32-1.45.1.zip
+/vscodium64   https://github.com/VSCodium/vscodium/releases/download/1.45.1/VSCodium-win32-x64-1.45.1.zip
 
 #fallback
 /*            https://makazzz.netlify.com
